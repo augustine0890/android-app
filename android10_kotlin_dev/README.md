@@ -1,7 +1,7 @@
 # The Complete Android 10 & Kotlin Development
 
 ### What you will learn
-- The object-oriented programming language Kotlin,variables, data types, functions, classes,inheritance.
+- The object-oriented programming language Kotlin, variables, data types, functions, classes, inheritance.
 
 - Control flows (if/else, when, for/while/do-while loops) .
 
