@@ -35,5 +35,21 @@ fun main(){
     var firstCharInStr = myStr[0]
     println("First character: $firstCharInStr")
     var lastCharInStr = myStr[myStr.length - 1]
-    println("First character: $lastCharInStr")
+    println("Last character: $lastCharInStr")
+
+    // Arithmetic operators (+, -, *, /, %)
+    var result = 5 + 4
+    result /= 3
+    result *= 4
+    result -= 2
+    result = 14%3
+    println(result)
+
+    val a = 3.0
+    val b = 5
+    var resultDouble: Double
+    resultDouble = (a*b)
+    println(resultDouble)
+
+
 }
