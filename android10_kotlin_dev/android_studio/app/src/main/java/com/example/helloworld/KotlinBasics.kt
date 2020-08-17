@@ -4,8 +4,8 @@ fun main(){
     var myName = "Augustine" // mutable variable
     myName = "Quy"
     val myFamilyName = "Nguyen" // immutable variable
-    var myAge = 30
-    print("Hello $myName $myFamilyName")
+    var myAge = 30 // type inference finds out the type from context
+    println("Hello $myName $myFamilyName")
 
     /*
     This is multiple comment
@@ -21,6 +21,19 @@ fun main(){
     val myFloat: Float = 15.23F
     val myDouble: Double = 3.14159265358979323846
 
+    // Booleans are used to represent logical values.
+    // It can have two possible values true and false.
+    var isSunny: Boolean = true
+    isSunny = false
 
+    // Characters
+    val letterChar = 'A'
+    val digitChar = '1'
 
+    // Strings
+    val myStr = "Augustine"
+    var firstCharInStr = myStr[0]
+    println("First character: $firstCharInStr")
+    var lastCharInStr = myStr[myStr.length - 1]
+    println("First character: $lastCharInStr")
 }
