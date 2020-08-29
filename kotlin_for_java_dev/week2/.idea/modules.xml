@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/week2.iml" filepath="$PROJECT_DIR$/.idea/week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mastermind/Task/src/playground.iml" filepath="$PROJECT_DIR$/Mastermind/Task/src/playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/week2.iml" filepath="$PROJECT_DIR$/.idea/modules/week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastermind/Task/week2.Mastermind-Task.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastermind/Task/week2.Mastermind-Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastermind/Task/week2.Mastermind-Task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastermind/Task/week2.Mastermind-Task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastermind/Task/week2.Mastermind-Task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastermind/Task/week2.Mastermind-Task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/week2.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/week2.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/week2.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/week2.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/week2.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/week2.util.test.iml" />
     </modules>
   </component>
 </project>

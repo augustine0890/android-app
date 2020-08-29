@@ -256,6 +256,9 @@ files:
 - name: assignmentKey
   visible: false
   learner_created: false
+- name: src/playground/ValidIdentifier.kt
+  visible: true
+  learner_created: true
 feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/vmwVT/mastermind-game/discussions
 status: Unchecked
 record: -1
