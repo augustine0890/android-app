@@ -1,4 +1,5 @@
 package playground
+import kotlin.math.min
 
 fun List<Int>.sum(): Int {
     var result = 0
@@ -7,6 +8,7 @@ fun List<Int>.sum(): Int {
     }
     return result
 }
+
 
 fun main(args: Array<String>) {
     val sum = listOf(1, 2, 3).sum()
