@@ -1,5 +1,8 @@
 *.iml
 *.gradle
+*.jar
+*.zip
 /build
 .DS_Store
 /.idea/caches
+/.idea/

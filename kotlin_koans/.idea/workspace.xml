@@ -1,5 +1,741 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e266fca-8eaf-420c-97d2-58103676aa16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/md-rule/md-rule.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/md-supplier/md-supplier.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/5vcj7nxxrusxyl15kfsuv7fi7/cp_init6418c6d726070f323dbddda2aadc82ef/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/5vcj7nxxrusxyl15kfsuv7fi7/cp_init6418c6d726070f323dbddda2aadc82ef/cp_init6418c6d726070f323dbddda2aadc82ef.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/5vcj7nxxrusxyl15kfsuv7fi7/cp_init6418c6d726070f323dbddda2aadc82ef/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/5vcj7nxxrusxyl15kfsuv7fi7/init6418c6d726070f323dbddda2aadc82ef/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/5vcj7nxxrusxyl15kfsuv7fi7/init6418c6d726070f323dbddda2aadc82ef/init/_BuildScript_$_run_closure1$_closure2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/5vcj7nxxrusxyl15kfsuv7fi7/init6418c6d726070f323dbddda2aadc82ef/init/_BuildScript_$_run_closure1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/5vcj7nxxrusxyl15kfsuv7fi7/init6418c6d726070f323dbddda2aadc82ef/init/_BuildScript_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/5vcj7nxxrusxyl15kfsuv7fi7/init6418c6d726070f323dbddda2aadc82ef/init6418c6d726070f323dbddda2aadc82ef.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/5vcj7nxxrusxyl15kfsuv7fi7/init6418c6d726070f323dbddda2aadc82ef/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/9x31ke9agcuty7gaptx9ecmq6/cp_settings6418c6d726070f323dbddda2aadc82ef/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/9x31ke9agcuty7gaptx9ecmq6/cp_settings6418c6d726070f323dbddda2aadc82ef/cp_settings/_BuildScript_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/9x31ke9agcuty7gaptx9ecmq6/cp_settings6418c6d726070f323dbddda2aadc82ef/cp_settings6418c6d726070f323dbddda2aadc82ef.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/9x31ke9agcuty7gaptx9ecmq6/cp_settings6418c6d726070f323dbddda2aadc82ef/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/9x31ke9agcuty7gaptx9ecmq6/settings6418c6d726070f323dbddda2aadc82ef/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/9x31ke9agcuty7gaptx9ecmq6/settings6418c6d726070f323dbddda2aadc82ef/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/9x31ke9agcuty7gaptx9ecmq6/settings6418c6d726070f323dbddda2aadc82ef/settings/_BuildScript_$_run_closure1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/9x31ke9agcuty7gaptx9ecmq6/settings6418c6d726070f323dbddda2aadc82ef/settings/_BuildScript_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/9x31ke9agcuty7gaptx9ecmq6/settings6418c6d726070f323dbddda2aadc82ef/settings6418c6d726070f323dbddda2aadc82ef.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/beiwu9qv26wp5s1f09r7uq0ty/cp_proj6418c6d726070f323dbddda2aadc82ef/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/beiwu9qv26wp5s1f09r7uq0ty/cp_proj6418c6d726070f323dbddda2aadc82ef/cp_proj/_BuildScript_$_run_closure1$_closure2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/beiwu9qv26wp5s1f09r7uq0ty/cp_proj6418c6d726070f323dbddda2aadc82ef/cp_proj/_BuildScript_$_run_closure1$_closure3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/beiwu9qv26wp5s1f09r7uq0ty/cp_proj6418c6d726070f323dbddda2aadc82ef/cp_proj/_BuildScript_$_run_closure1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/beiwu9qv26wp5s1f09r7uq0ty/cp_proj6418c6d726070f323dbddda2aadc82ef/cp_proj/_BuildScript_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/beiwu9qv26wp5s1f09r7uq0ty/cp_proj6418c6d726070f323dbddda2aadc82ef/cp_proj6418c6d726070f323dbddda2aadc82ef.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/6.5/scripts/beiwu9qv26wp5s1f09r7uq0ty/cp_proj6418c6d726070f323dbddda2aadc82ef/metadata/metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/jars-8/21eb9c8e0a95ef849179b7c99644788a/cp_init.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/jars-8/4f1b4ada258d81c55ad19d4535360e10/cp_settings.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/jars-8/6c1826cdba913c73aa54a92e56ba2c16/cp_proj.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/jars-8/997492be357447b8a8e3834cfe564b84/init.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/jars-8/c79cb69739e8504821c3c526c9d81d69/settings.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/jars-8/jars-8.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/journal-1/file-access.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/journal-1/file-access.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/journal-1/journal-1.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.21/ea7f86264c6feb1878a92ec50d4dea8e742921cd/kotlin-gradle-plugin-1.3.21.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.21/4f1b4f4073d5e72115beca8daa2434c71a57ca6c/kotlin-reflect-1.3.21.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/modules-2/metadata-2.96/descriptors/org.jetbrains.kotlin/kotlin-gradle-plugin/1.3.21/a8be1fe3b3911d3d3425fe720cf42835/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/modules-2/metadata-2.96/descriptors/org.jetbrains.kotlin/kotlin-reflect/1.3.21/a8be1fe3b3911d3d3425fe720cf42835/descriptor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/modules-2/metadata-2.96/module-metadata.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/modules-2/metadata-2.96/resource-at-url.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/caches/modules-2/modules-2.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/daemon/6.5/daemon-1596.out.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/daemon/6.5/registry.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/daemon/6.5/registry.bin.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/native/f6784746aeab05261644944871eae4fe03e0ef1612fff0a4a95f87b438bc6780/osx-amd64/libnative-platform.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/native/f6784746aeab05261644944871eae4fe03e0ef1612fff0a4a95f87b438bc6780/osx-amd64/libnative-platform.dylib.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/native/jansi/1.18/osx/libjansi.jnilib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/out/production/Nice String/META-INF/Nice String.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/out/production/Nice String/nicestring/NiceStringKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5-bin.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5-bin.zip.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5-bin.zip.ok" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/bin/gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/bin/gradle.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/init.d/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/annotations-13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/ant-1.10.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/ant-launcher-1.10.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/asm-7.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/asm-analysis-7.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/asm-commons-7.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/asm-tree-7.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/commons-compress-1.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/failureaccess-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/fastutil-8.3.0-min.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-api-metadata-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-base-annotations-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-base-services-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-base-services-groovy-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-bootstrap-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-build-cache-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-build-cache-base-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-build-cache-packaging-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-build-events-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-build-option-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-cli-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-core-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-core-api-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-docs-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-execution-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-file-collections-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-file-watching-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-files-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-hashing-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-installation-beacon-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-java-compiler-plugin-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-jvm-services-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-kotlin-dsl-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-kotlin-dsl-tooling-models-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-launcher-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-logging-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-messaging-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-model-core-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-model-groovy-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-native-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-normalization-java-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-persistent-cache-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-process-services-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-resources-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-runtime-api-info-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-snapshots-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-tooling-api-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-worker-processes-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/gradle-wrapper-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/groovy-all-1.3-2.5.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/guava-27.1-android.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/jansi-1.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/javax.inject-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/jcl-over-slf4j-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/jsr305-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/jul-to-slf4j-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-compiler-embeddable-1.3.72-patched-for-gradle-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-daemon-embeddable-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-reflect-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-sam-with-receiver-compiler-plugin-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-script-runtime-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-scripting-common-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-scripting-compiler-embeddable-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-scripting-compiler-impl-embeddable-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-scripting-jvm-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-scripting-jvm-host-embeddable-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-stdlib-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-stdlib-common-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-stdlib-jdk7-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlin-stdlib-jdk8-1.3.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kotlinx-metadata-jvm-0.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/kryo-2.24.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/log4j-over-slf4j-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/minlog-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-freebsd-amd64-libcpp-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-linux-aarch64-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-linux-aarch64-ncurses5-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-linux-aarch64-ncurses6-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-linux-amd64-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-linux-amd64-ncurses5-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-linux-amd64-ncurses6-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-osx-amd64-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-windows-amd64-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-windows-amd64-min-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-windows-i386-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/native-platform-windows-i386-min-0.22-milestone-3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/objenesis-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/aether-api-1.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/aether-connector-wagon-1.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/aether-impl-1.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/aether-spi-1.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/aether-util-1.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/apiguardian-api-1.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/asm-util-7.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/aws-java-sdk-core-1.11.633.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/aws-java-sdk-kms-1.11.633.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/aws-java-sdk-s3-1.11.633.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/bcpg-jdk15on-1.64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/bcpkix-jdk15on-1.61.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/bcprov-jdk15on-1.64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/bsh-2.0b6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/commons-codec-1.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/dd-plist-1.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/google-api-client-1.25.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/google-api-services-storage-v1-rev136-1.25.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/google-http-client-1.25.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/google-http-client-jackson2-1.25.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/google-oauth-client-1.25.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-antlr-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-build-cache-http-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-build-init-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-build-profile-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-code-quality-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-composite-builds-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-dependency-management-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-diagnostics-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-ear-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-ide-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-ide-native-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-ide-play-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-instant-execution-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-ivy-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-jacoco-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-javascript-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-kotlin-dsl-provider-plugins-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-kotlin-dsl-tooling-builders-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-language-groovy-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-language-java-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-language-jvm-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-language-native-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-language-scala-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-maven-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-platform-base-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-platform-jvm-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-platform-native-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-platform-play-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-plugin-development-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-plugin-use-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-plugins-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-publish-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-reporting-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-resources-gcs-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-resources-http-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-resources-s3-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-resources-sftp-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-scala-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-security-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-signing-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-test-kit-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-testing-base-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-testing-junit-platform-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-testing-jvm-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-testing-native-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-tooling-api-builders-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-tooling-native-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-version-control-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gradle-workers-6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/gson-2.8.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/httpclient-4.5.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/httpcore-4.4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/ion-java-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/ivy-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/jackson-annotations-2.10.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/jackson-core-2.10.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/jackson-databind-2.10.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/jatl-0.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/jaxb-impl-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/jcifs-1.3.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/jcommander-1.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/jmespath-java-1.11.633.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/joda-time-2.10.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/jsch-0.1.55.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/junit-4.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/junit-platform-commons-1.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/junit-platform-engine-1.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/junit-platform-launcher-1.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/jzlib-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/maven-aether-provider-3.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/maven-artifact-3.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/maven-compat-3.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/maven-core-3.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/maven-model-3.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/maven-model-builder-3.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/maven-plugin-api-3.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/maven-repository-metadata-3.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/maven-settings-3.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/maven-settings-builder-3.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/nekohtml-1.9.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/opentest4j-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/org.eclipse.jgit-5.5.0.201909110433-r.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/plexus-cipher-1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/plexus-classworlds-2.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/plexus-component-annotations-1.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/plexus-container-default-1.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/plexus-interpolation-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/plexus-sec-dispatcher-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/plexus-utils-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/pmaven-common-0.8-20100325.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/pmaven-groovy-0.8-20100325.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/rhino-1.7.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/simple-4.1.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/snakeyaml-1.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/testng-6.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/wagon-file-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/wagon-http-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/wagon-http-shared-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/wagon-provider-api-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/xbean-reflect-3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/plugins/xercesImpl-2.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/slf4j-api-1.7.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/trove4j-1.0.20181211.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin_for_java_dev/week3/wrapper/dists/gradle-6.5-bin/6nifqtx7604sqp1q6g8wikw7p/gradle-6.5/lib/xml-apis-1.4.01.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Builders how it works/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Builders how it works/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Builders how it works/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Builders how it works/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Builders how it works/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Builders implementation/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Builders implementation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Builders implementation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Builders implementation/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Builders implementation/test/Tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Function literals with receiver/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Function literals with receiver/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Function literals with receiver/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Function literals with receiver/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Function literals with receiver/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Html builders/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Html builders/src/data.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Html builders/src/demo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Html builders/src/demo.kt.wb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Html builders/src/html.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Html builders/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Html builders/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Html builders/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Html builders/task.md.wb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/Html builders/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/String and map builders/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/String and map builders/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/String and map builders/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/String and map builders/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/String and map builders/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/The function apply/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/The function apply/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/The function apply/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/The function apply/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/The function apply/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Builders/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Data classes/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Data classes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Data classes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Data classes/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Data classes/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Extension functions/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Extension functions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Extension functions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Extension functions/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Extension functions/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Rename on import/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Rename on import/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Rename on import/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Rename on import/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Rename on import/test/Tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Sealed classes/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Sealed classes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Sealed classes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Sealed classes/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Sealed classes/test/Tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Smart casts/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Smart casts/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Smart casts/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Smart casts/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Smart casts/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/All Any and other predicates/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/All Any and other predicates/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/All Any and other predicates/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/All Any and other predicates/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/All Any and other predicates/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/All Any and other predicates/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/All Any and other predicates/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Associate/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Associate/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Associate/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Associate/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Associate/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Associate/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Associate/test/Tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Compound tasks/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Compound tasks/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Compound tasks/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Compound tasks/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Compound tasks/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Compound tasks/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Filter map/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Filter map/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Filter map/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Filter map/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Filter map/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Filter map/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Filter map/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/FlatMap/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/FlatMap/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/FlatMap/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/FlatMap/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/FlatMap/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/FlatMap/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Fold/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Fold/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Fold/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Fold/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Fold/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Fold/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Getting used to new style/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Getting used to new style/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Getting used to new style/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Getting used to new style/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Getting used to new style/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/GroupBy/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/GroupBy/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/GroupBy/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/GroupBy/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/GroupBy/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/GroupBy/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Introduction/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Introduction/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Introduction/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Introduction/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Introduction/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Introduction/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Introduction/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Max min/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Max min/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Max min/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Max min/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Max min/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Max min/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Max min/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Partition/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Partition/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Partition/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Partition/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Partition/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Partition/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sequences/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sequences/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sequences/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sequences/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sequences/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sequences/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sequences/test/Tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sort/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sort/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sort/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sort/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sort/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sort/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sort/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sum/src/Shop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sum/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sum/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sum/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sum/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sum/test/TestShop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Sum/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Comparison/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Comparison/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Comparison/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Comparison/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Comparison/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/For loop/src/DateUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/For loop/src/MyDate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/For loop/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/For loop/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/For loop/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/For loop/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/For loop/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Invoke/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Invoke/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Invoke/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Invoke/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Invoke/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Operators overloading/src/DateUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Operators overloading/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Operators overloading/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Operators overloading/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Operators overloading/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Operators overloading/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Ranges/src/MyDate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Ranges/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Ranges/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Ranges/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Ranges/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/Ranges/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conventions/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics/Generic functions/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics/Generic functions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics/Generic functions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics/Generic functions/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics/Generic functions/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Default arguments/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Default arguments/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Default arguments/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Default arguments/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Default arguments/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/classes/java/main/META-INF/Introduction-Hello,_world!.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/classes/java/main/TaskKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/classes/kotlin/test/META-INF/Introduction-Hello,_world!.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/classes/kotlin/test/TestStart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/reports/tests/test/classes/TestStart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/test-results/test/TEST-TestStart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Hello, world!/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Lambdas/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Lambdas/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Lambdas/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Lambdas/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Named arguments/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Named arguments/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Named arguments/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Named arguments/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Named arguments/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Nothing type/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Nothing type/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Nothing type/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Nothing type/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Nothing type/test/Tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Nullable types/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Nullable types/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Nullable types/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Nullable types/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/String templates/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/String templates/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/String templates/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/String templates/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/String templates/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Triple-quoted strings/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Triple-quoted strings/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Triple-quoted strings/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Triple-quoted strings/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Triple-quoted strings/test/Tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Delegates examples/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Delegates examples/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Delegates examples/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Delegates examples/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Delegates how it works/src/MyDate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Delegates how it works/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Delegates how it works/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Delegates how it works/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Delegates how it works/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Lazy property/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Lazy property/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Lazy property/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Lazy property/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Lazy property/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Properties/src/Task.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Properties/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Properties/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Properties/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/Properties/test/tests.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/src/koansTestUtil.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -7,7 +743,48 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gs0F8vjL3HCQSv220VrZYyON2X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e266fca-8eaf-420c-97d2-58103676aa16" name="Default Changelist" comment="" />
+      <created>1598887885390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598887885390</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1333" height="920" key="DiffContextDialog" timestamp="1598920436475">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="100" y="100" width="1333" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1598920436475" />
   </component>
 </project>
