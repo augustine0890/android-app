@@ -1,8 +1,8 @@
 .DS_Store
-android10_kotlin_dev/android_studio/*.iml
-android10_kotlin_dev/android_studio/*.gradle
-android10_kotlin_dev/android_studio/gradle/
-android10_kotlin_dev/android_studio/*.jar
-android10_kotlin_dev/android_studio/*.zip
-android10_kotlin_dev/android_studio/build/
-android10_kotlin_dev/android_studio/.idea/
+/android10_kotlin_dev/android_studio/*.iml
+/android10_kotlin_dev/android_studio/*.gradle
+/android10_kotlin_dev/android_studio/gradle/
+/android10_kotlin_dev/android_studio/*.jar
+/android10_kotlin_dev/android_studio/*.zip
+/android10_kotlin_dev/android_studio/build/
+/android10_kotlin_dev/android_studio/.idea/
