@@ -1,8 +1,1 @@
 .DS_Store
-/android_studio/*.iml
-/android_studio/*.gradle
-/android_studio/gradle/
-/android_studio/*.jar
-/android_studio/*.zip
-/android_studio/build/
-/android_studio/.idea/
