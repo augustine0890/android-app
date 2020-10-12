@@ -1,15 +1,19 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { Dimensions, ImageBackground, StyleSheet, Text, View } from 'react-native';
+
+import picSierra from './assets/Sierra-Spencer.png';
+import picTanner from './assets/Tanner-McTab.png';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.defaultText}>Sierra</Text>
-      <Text style={[styles.defaultText, styles.selectedText]}>
-        Tanner
-      </Text>
-      <Text style={styles.defaultText}>Travis</Text>
+      <ImageBackground style={styles.pic} source={picSierra}>
+        <Text style={styles.userName}>Sierra Spencer</Text>
+      </ImageBackground>
+      <ImageBackground style={styles.pic} source={picTanner}>
+        <Text style={styles.userName}>Tanner McTab</Text>
+      </ImageBackground>
       <StatusBar style="auto" />
     </View>
   );
@@ -18,7 +22,6 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    flexDirection: 'row',
     backgroundColor: '#ddd',
     alignItems: 'center',
     justifyContent: 'space-around',
@@ -34,5 +37,19 @@ const styles = StyleSheet.create({
     backgroundColor: 'yellow',
     color: 'blue',
     fontWeight: 'bold',
+  },
+  pic: {
+    // borderRadius: 100,
+    flex: 1,
+    width: Dimensions.get('window').width,
+    resizeMode: 'cover',
+    justifyContent: 'flex-end',
+    alignItems: 'flex-end',
+  },
+  userName: {
+    backgroundColor: 'rgba(0,0,0,.7)',
+    fontSize: 25,
+    padding: 5,
+    color: 'white',
   },
 });
